@@ -1,0 +1,12 @@
+Package: databutton
+Type: Package
+Title: Databutton R SDK
+Version: 0.1.0
+Author: Trygve Karper
+Maintainer: Martin Roed <martin@databutton.io>
+Description: The Databutton R package provides a set of methods to interact with the Databutton application (www.databutton.com). 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+imports: httr, R6, tidyverse
+RoxygenNote: 7.1.2
